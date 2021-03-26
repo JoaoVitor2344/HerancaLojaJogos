@@ -1,0 +1,12 @@
+E:\Arquivos\Projetos\HerançaLojajogos\obj\Debug\HerançaLojajogos.csprojAssemblyReference.cache
+E:\Arquivos\Projetos\HerançaLojajogos\obj\Debug\HerançaLojajogos.Form1.resources
+E:\Arquivos\Projetos\HerançaLojajogos\obj\Debug\HerançaLojajogos.Properties.Resources.resources
+E:\Arquivos\Projetos\HerançaLojajogos\obj\Debug\HerançaLojajogos.csproj.GenerateResource.cache
+E:\Arquivos\Projetos\HerançaLojajogos\obj\Debug\HerançaLojajogos.csproj.CoreCompileInputs.cache
+E:\Arquivos\Projetos\HerançaLojajogos\bin\Debug\HerançaLojajogos.exe.config
+E:\Arquivos\Projetos\HerançaLojajogos\bin\Debug\HerançaLojajogos.exe
+E:\Arquivos\Projetos\HerançaLojajogos\bin\Debug\HerançaLojajogos.pdb
+E:\Arquivos\Projetos\HerançaLojajogos\obj\Debug\HerançaLojajogos.exe
+E:\Arquivos\Projetos\HerançaLojajogos\obj\Debug\HerançaLojajogos.pdb
+E:\Arquivos\Projetos\HerançaLojajogos\obj\Debug\HerançaLojajogos.frmPrincipal.resources
+E:\Arquivos\Projetos\HerançaLojajogos\obj\Debug\HerançaLojajogos.Form2.resources
